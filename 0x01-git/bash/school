@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash\necho "ALX"
 #!/bin/bash\necho "The school is open!"
+=======
+#!/bin/bash\necho "The school is open"
+>>>>>>> 85c1ce7786fda3a11de7bfdf6701b82f198841b9
